@@ -1,0 +1,25 @@
+{
+  "name": "slondo-ptbr",
+  "version": "1.0.0",
+  "title": "Pacote de traduções pt-BR",
+  "author": "Slondo",
+  "description": "Um pacotão de traduções para português brasileiro de vários mods, esse pacote será atualizado a medida que muitos mods forem traduzidos. Sugestão de mods a serem traduzidos podem ser feitas a qualquer momento!\n\nIf you are a mod creator and your mod is listed here, feel free to get a copy of the translations that have been made! If your mod is not listed here and you would like to locate to your mod in Brazilian Portuguese with as much accurate detail as possible, contact me!",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "? FusionPoweredRobots",
+    "? FluidMustFlow",
+    "? skewer_planet_vesta",
+    "? BatteryElectricTrain",
+    "? reach-equipment",
+    "? elevated-pipes",
+    "? textplates",
+    "? kc-lunarpanel",
+    "? minimalist-rails",
+    "? AspctTrainPatch",
+    "? visible-planets",
+    "? ore-ganizer",
+    "? reactor-m",
+    "? Better_Starmap_Background",
+    "? pk-fracking-tower"
+  ]
+}
