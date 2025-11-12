@@ -1,5 +1,5 @@
 ﻿# Traduções PT-BR
-Este é um pacote com várias traduções de vários mods, ele será atualizado a medida que muitos mods forem traduzidos! Sugestões de mods a serem traduzidos podem ser feitas a qualquer momento!
+Este é um pacote com traduções de vários mods, ele será atualizado a medida que muitos mods forem traduzidos! Sugestões de mods a serem traduzidos podem ser feitas a qualquer momento!
 
 This project aims to gather original translations for various mods I've submitted and expand that collection. Many of the listed mods already have a Brazilian Portuguese localization, but some, due to delays in approving suggestions, end up without a translation. The intention of this project is to create translations and leave the decision of officially integrating them to the mod author.
 
@@ -48,4 +48,5 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 - [Planet Vesta](https://mods.factorio.com/mod/skewer_planet_vesta) - por CPU_BlackHeart
 - [StarMap Background](https://mods.factorio.com/mod/Better_Starmap_Background) - por Tserup
 - [Text Plates](https://mods.factorio.com/mod/textplates) - por Earendel
+
 - [Visible Planets in Space](https://mods.factorio.com/mod/visible-planets) - por Nauviax
