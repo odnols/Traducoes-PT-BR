@@ -1,0 +1,31 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2025.11.11
+    Changes:
+    - The order of mod names in the dependency list has been adjusted.
+    - New translations:
+        Mini_Trains,
+        Bio_Industries_2
+    Fixes:
+        Incorrect translation for the name and description of the elevated-pipes mod.
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2025.11.11
+    Initial release:
+    - Mods translated:
+        AspctTrainPatch,
+        BatteryElectricTrain,
+        Better_Starmap_Background,
+        elevated-pipes,
+        FluidMustFlow,
+        FusionPoweredRobots,
+        kc-lunarpanel,
+        minimalist-rails,
+        ore-ganizer,
+        pk-fracking-tower,
+        reach-equipment,
+        reactor-m,
+        skewer_planet_vesta,
+        textplates,
+        visible-planets
