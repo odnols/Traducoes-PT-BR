@@ -1,8 +1,9 @@
 Versão: 1.0.2 (unreleased)
 Data: ?
     Adições:
-        - Mods traduzidos (+ 1 / Total: 18)
+        - Mods traduzidos (+ 2 / Total: 18)
             Planet Belt Portal - por agaede22
+            Carriage Transport - por SoulCRYSIS
     Alterações:
         - Agora o log de alterações é totalmente em português!
         - Removida a lista de mods dependentes opcionais para poupar muitas menções.

@@ -33,6 +33,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 > V1.0.2 - Em andamento para dia `10/12`
 
 - [Planet Belt Portal](https://mods.factorio.com/mod/planet-belt-portal) - por agaede22
+- [Carriage Transport](https://mods.factorio.com/mod/carriage) - por SoulCRYSIS
 
 > V1.0.0 & 1.0.1 - 11/11/2025
 
