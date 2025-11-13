@@ -1,9 +1,10 @@
 Versão: 1.0.2 (unreleased)
 Data: ?
     Adições:
-        - Mods traduzidos (+ 2 / Total: 18)
+        - Mods traduzidos (+ 3 / Total: 20)
+            Carriage Transport - por SoulCRYSIS,
+            Heat Inserter - por Kryzeth,
             Planet Belt Portal - por agaede22
-            Carriage Transport - por SoulCRYSIS
     Alterações:
         - Agora o log de alterações é totalmente em português!
         - Removida a lista de mods dependentes opcionais para poupar muitas menções.
@@ -19,8 +20,8 @@ Versão: 1.0.1
 Data: 11/11/2025
     Adições:
         - Mods traduzidos: (+ 2 / Total: 17)
+            Bio Industries - por cackling.fiend,
             Mini Trains - por Klonan
-            Bio Industries - por cackling.fiend
     Alterações:
         - A ordem de listagem dos mods dependentes opcionais foi atualizada.
     Correções:
@@ -40,9 +41,9 @@ Data: 11/11/2025
         Legacy Train Model - por aspct,
         Minimal Electric Rails - por snouz,
         Ore-ganizer - por 0n0w1c,
-        Reach Equipment - por BetweenWalls,
-        Plasma Accelerator - por ArkadiPorovozov,
         Planet Vesta - por CPU_BlackHeart,
+        Plasma Accelerator - por ArkadiPorovozov,
+        Reach Equipment - por BetweenWalls,
         StarMap Background - por Tserup,
         Text Plates - por Earendel,
         Visible Planets in Space - por Nauviax

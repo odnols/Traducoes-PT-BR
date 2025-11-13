@@ -29,11 +29,12 @@ ter justificativa para ser publicado no mod oficialmente.
 
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês.
 
-# 🔣 Mods traduzidos
+# 🔣 Mods traduzidos (17 / + 3 a chegar)
 > V1.0.2 - Em andamento para dia `10/12`
 
-- [Planet Belt Portal](https://mods.factorio.com/mod/planet-belt-portal) - por agaede22
 - [Carriage Transport](https://mods.factorio.com/mod/carriage) - por SoulCRYSIS
+- [Heat Inserter](https://mods.factorio.com/mod/heat-inserter) - por Kryzeth
+- [Planet Belt Portal](https://mods.factorio.com/mod/planet-belt-portal) - por agaede22
 
 > V1.0.0 & 1.0.1 - 11/11/2025
 
@@ -48,9 +49,9 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 - [Mini Trains](https://mods.factorio.com/mod/Mini_Trains) - por  Klonan
 - [Minimal Electric Rails](https://mods.factorio.com/mod/minimalist-rails) - por snouz
 - [Ore-ganizer](https://mods.factorio.com/mod/ore-ganizer) - por 0n0w1c
-- [Reach Equipment](https://mods.factorio.com/mod/reach-equipment) - por BetweenWalls
-- [Plasma Accelerator](https://mods.factorio.com/mod/reactor-m) - por ArkadiPorovozov
 - [Planet Vesta](https://mods.factorio.com/mod/skewer_planet_vesta) - por CPU_BlackHeart
+- [Plasma Accelerator](https://mods.factorio.com/mod/reactor-m) - por ArkadiPorovozov
+- [Reach Equipment](https://mods.factorio.com/mod/reach-equipment) - por BetweenWalls
 - [StarMap Background](https://mods.factorio.com/mod/Better_Starmap_Background) - por Tserup
 - [Text Plates](https://mods.factorio.com/mod/textplates) - por Earendel
 - [Visible Planets in Space](https://mods.factorio.com/mod/visible-planets) - por Nauviax
