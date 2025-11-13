@@ -14,6 +14,7 @@ Data: ?
         - "Parallax" do mod StarMap Background agora aparece traduzido para "paralaxe".
         - Removidas muitas chaves de tradução não utilizadas em vários arquivos de mods.
         - Invertido a ordem nos nomes das placas de texto no mod Text Plates, antes estava como "Placa de pedra grande", agora aparecerá como "Placa grande de pedra".
+        - "de fusão" nos mods Planet Vesta e Fusion Robots foi ajustado para "a fusão" nos robôs e em outros itens para indicar que esses componentes são alimentados pela fusão nuclear, e não que são "feitos" (ou existem para fazer) pela fusão.
 
 ---------------------------------------------------------------------------------------------------
 Versão: 1.0.1
