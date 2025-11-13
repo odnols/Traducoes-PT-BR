@@ -1,31 +1,47 @@
----------------------------------------------------------------------------------------------------
-Version: 1.0.1
-Date: 2025.11.11
-    Changes:
-    - The order of mod names in the dependency list has been adjusted.
-    - New translations:
-        Mini_Trains,
-        Bio_Industries_2
-    Fixes:
-        Incorrect translation for the name and description of the elevated-pipes mod.
+Versão: 1.0.2 (unreleased)
+Data: ?
+    Adições:
+        - Mods traduzidos (+ 1 / Total: 18)
+            Planet Belt Portal - por agaede22
+    Alterações:
+        - Agora o log de alterações é totalmente em português!
+        - Removida a lista de mods dependentes opcionais para poupar muitas menções.
+            - Agora os mods serão listados conforme suas atualizações com links diretos na página do mod e no repositório do github. 
+    Ajustes:
+        - Descrição do pacote ajustada para tornar mais formal e direta ao ponto.
+        - "Parallax" do mod StarMap Background agora aparece traduzido para "paralaxe".
+        - Removidas muitas chaves de tradução não utilizadas em vários arquivos de mods.
+        - Invertido a ordem nos nomes das placas de texto no mod Text Plates, antes estava como "Placa de pedra grande", agora aparecerá como "Placa grande de pedra".
 
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.0
-Date: 2025.11.11
-    Initial release:
-    - Mods translated:
-        AspctTrainPatch,
-        BatteryElectricTrain,
-        Better_Starmap_Background,
-        elevated-pipes,
-        FluidMustFlow,
-        FusionPoweredRobots,
-        kc-lunarpanel,
-        minimalist-rails,
-        ore-ganizer,
-        pk-fracking-tower,
-        reach-equipment,
-        reactor-m,
-        skewer_planet_vesta,
-        textplates,
-        visible-planets
+Versão: 1.0.1
+Data: 11/11/2025
+    Adições:
+        - Mods traduzidos: (+ 2 / Total: 17)
+            Mini Trains - por Klonan
+            Bio Industries - por cackling.fiend
+    Alterações:
+        - A ordem de listagem dos mods dependentes opcionais foi atualizada.
+    Correções:
+        - Traduções não funcionando para o nome e descrição do mod Elevated pipes.
+
+---------------------------------------------------------------------------------------------------
+Versão: 1.0.0
+Data: 11/11/2025
+    Lançamento inicial:
+    - Mods traduzidos: (Total: 15)
+        Battery-Electric Train - por catweax,
+        Elevated pipes - por Redotix99,
+        Fluid Must Flow - por raiguard,
+        Fracking Tower - por GammaDelta,
+        Fusion Robots - por Acouya,
+        Lunar Panel - por KilangCuka,
+        Legacy Train Model - por aspct,
+        Minimal Electric Rails - por snouz,
+        Ore-ganizer - por 0n0w1c,
+        Reach Equipment - por BetweenWalls,
+        Plasma Accelerator - por ArkadiPorovozov,
+        Planet Vesta - por CPU_BlackHeart,
+        StarMap Background - por Tserup,
+        Text Plates - por Earendel,
+        Visible Planets in Space - por Nauviax
