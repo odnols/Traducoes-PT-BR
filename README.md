@@ -30,7 +30,7 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês.
 
 # 🔣 Mods traduzidos ( 16 / +10 a chegar )
-> V1.0.2 - Em andamento para dia `10/12`
+> V1.0.2 - Em andamento para dia `10/12` ( `+9 mods` )
 
 - [Cannon Turret](https://mods.factorio.com/mod/vtk-cannon-turret) - por Vortik
 - [Carriage Transport](https://mods.factorio.com/mod/carriage) - por SoulCRYSIS
