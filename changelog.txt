@@ -4,13 +4,15 @@ Data: ?
         - The changes from V1.0.2 have been undone! Optional mods make downloading faster and it's easier to see in-game what's supported in the translation package!
             - Unlike the changelog, we will list supported mods in alphabetical order globally, without separating by versions, just adding them in the middle.
     Adições:
-        - Mods traduzidos ( +1 / Total: 27 )
+        - Mods traduzidos ( +4 / Total: 30 )
             Actual Underground Pipes - por protocol_1903,
+            Carnivorous Bacteria - por Pithlit,
+            Fluroflux: Stingfrond Agriculture - por LordMiguel,
             Scrappy Industry - por SafTheLamb
         - Mods atualizados:
             - Adicionadas traduções para a Fazenda lunar, do mod Lunar panel, em cooperação com o mod Bio Industries.
     Alterações:
-        - Adicionado novamente a lista de mods dependentes opcionais para ajudar a visualizar os mods compatíveis in-game, e tornar suas instalações mais dinâmicas.
+        - Adicionado novamente a lista de mods dependentes opcionais para ajudar a visualizar os mods suportados in-game e tornar suas instalações mais dinâmicas.
             - Esses mods opcionais ao contrário do log de alterações, serão exibidos em ordem alfabética para tornar mais fácil a localização in-game.
     Ajustes:
         - Corrigido um erro de typo na tradução do mod Logistics Insights onde a qualidade do item era ignorada, e o nome do item era mostrado novamente na guia de estatísticas da rede logística.
