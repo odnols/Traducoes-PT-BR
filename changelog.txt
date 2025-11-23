@@ -4,12 +4,13 @@ Data: ?
         - The changes from V1.0.2 have been undone! Optional mods make downloading faster and it's easier to see in-game what's supported in the translation package!
             - Unlike the changelog, we will list supported mods in alphabetical order globally, without separating by versions, just adding them in the middle.
     Adições:
-        - Mods traduzidos ( +10 / Total: 36)
+        - Mods traduzidos ( +11 / Total: 37)
             Actual Underground Pipes - por protocol_1903,
             Basic Chemistry - por EleusisLaArwall,
             Carnivorous Bacteria - por Pithlit,
             Dynamic Rain - por valertron,
             Even More Text Plates - por Zengineer,
+            Factorio+ - por Fishbus,
             Fluroflux: Stingfrond Agriculture - por LordMiguel,
             HD planets - por OwnlyMe,
             Missile Defense Systems [SA] - por kafoaai,

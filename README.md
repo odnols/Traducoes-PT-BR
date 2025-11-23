@@ -32,13 +32,14 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos ( Atualmente: 26 )
-> V1.0.3 - `em breve` ( `+10 mods traduzidos` )
+> V1.0.3 - `em breve` ( `+11 mods traduzidos` )
 
 - [Actual Underground Pipes](https://mods.factorio.com/mod/the-one-mod-with-underground-bits) - por protocol_1903
 - [Basic Chemistry](https://mods.factorio.com/mod/basic-chemistry) - por EleusisLaArwall
 - [Carnivorous Bacteria](https://mods.factorio.com/mod/carnivorous_bacteria) - por Pithlit
 - [Dynamic Rain](https://mods.factorio.com/mod/dynamic-rain) - por valertron
 - [Even More Text Plates](https://mods.factorio.com/mod/EvenMoreTextPlates) - por Zengineer
+- [Factorio+](https://mods.factorio.com/mod/factorioplus) - por Fishbus
 - [Fluroflux: Stingfrond Agriculture](https://mods.factorio.com/mod/fluroflux) - por LordMiguel
 - [HD planets](https://mods.factorio.com/mod/hd_planets) - por OwnlyMe
 - [Missile Defense Systems [SA]](https://mods.factorio.com/mod/missile_defense_systems_sa) - por kafoaai
