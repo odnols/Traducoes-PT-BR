@@ -4,6 +4,8 @@ Date: ?
   Depencencies:
     - The changes from V1.0.2 have been undone! Optional mods make downloading faster and it's easier to see in-game what's supported in the translation package!
       - Unlike the changelog, we will list supported mods in alphabetical order globally, without separating by versions, just adding them in the middle.
+  Advices:
+    - This pack is not restricted to working only with the Space Age; however, we may encounter resources in some mods that are not compatible with the Space Age but have the same name. In these cases, the name of the item included in the Space Age will be prioritized. If you are a mod developer, prioritize adding tags to your items, such as "slondo-iron-plate," instead of simply including them as "iron-plate." Using the same names present in the game will lead to incompatibility if you invent a very sophisticated name for an item that already exists in the game, making the translation erroneous.
   Adições:
     - Mods traduzidos ( +14 / Total: 40)
       Actual Underground Pipes - por protocol_1903,
@@ -21,13 +23,18 @@ Date: ?
       Scrappy Industry - por SafTheLamb,
       Wooden Logistics - por SafTheLamb
     - Mods atualizados:
-      - Adicionadas traduções para a Fazenda lunar, do mod Lunar panel, em cooperação com o mod Bio Industries.
+      - Adicionadas as traduções para a Fazenda lunar, do mod Lunar panel, em cooperação com o mod Bio Industries.
+      - Atualizadas as traduções para as configurações do mod Fusion Robots, em decorrência de uma atualização do mod.
+      - Atualizadas as traduções para as configurações do mod Visible Planets in Space, em decorrência de uma atualização do mod.
+      - Atualizadas as traduções para as configurações do mod Logistics Insights, em decorrência de uma atualização do mod.
   Alterações:
     - Adicionado novamente a lista de mods dependentes opcionais para ajudar a visualizar os mods suportados por este pacote in-game e tornar suas instalações mais dinâmicas.
-      - Esses mods opcionais ao contrário do log de alterações, serão exibidos em ordem alfabética para tornar mais fácil a localização in-game.
+      - Esses mods opcionais ao contrário do log de alterações, que ordena por pacotes de A-Z dentro de cada versão, serão exibidos em ordem alfabética unindo todos os mods do pacote para tornar mais fácil a localização in-game.
   Ajustes:
     - Corrigido um erro de typo na tradução do mod Logistics Insights onde a qualidade do item era ignorada, e o nome do item era mostrado novamente na guia de estatísticas da rede logística.
-    - Ajuste com o nome volframita relacionado ao tungstênio, e os textos do mod bztungsten2 para evitar inconsistências com a expansão Era Espacial, por se tratar do mesmo nome, o nome do item estava sobreescrevendo os nomes oficiais utilizados na expansão.
+    - Ajuste com o nome volframita relacionado ao tungstênio, e os textos do mod bztungsten2 para evitar inconsistências com a expansão Era Espacial, por se tratar do mesmo nome, e pela incompatibilidade deste mod com a Era Espacial, o nome do item estava sobreescrevendo os nomes oficiais utilizados na expansão caso ativada.
+    - Ajustados os nomes e descrições dos pacotes de recursos do planeta Vesta.
+    - Ajustadas algumas descrições de configurações do mod Bio Industries para tornar a leitura mais coesa.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 15/11/2025
