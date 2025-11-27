@@ -35,6 +35,7 @@ Date: ?
     - Ajuste com o nome volframita relacionado ao tungstênio, e os textos do mod bztungsten2 para evitar inconsistências com a expansão Era Espacial, por se tratar do mesmo nome, e pela incompatibilidade deste mod com a Era Espacial, o nome do item estava sobreescrevendo os nomes oficiais utilizados na expansão caso ativada.
     - Ajustados os nomes e descrições dos pacotes de recursos do planeta Vesta.
     - Ajustadas algumas descrições de configurações do mod Bio Industries para tornar a leitura mais coesa.
+    - Ajustes gerais com pontuações finais e quebras de linhas em vários mods para tornar a leitura mais coesa.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 15/11/2025
