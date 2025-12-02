@@ -23,10 +23,12 @@ Date: ?
       Scrappy Industry - por SafTheLamb,
       Wooden Logistics - por SafTheLamb
     - Mods atualizados:
-      - Adicionadas as traduções para a Fazenda lunar, do mod Lunar panel, em cooperação com o mod Bio Industries.
-      - Atualizadas as traduções para as configurações do mod Fusion Robots, em decorrência de uma atualização do mod.
-      - Atualizadas as traduções para as configurações do mod Visible Planets in Space, em decorrência de uma atualização do mod.
-      - Atualizadas as traduções para as configurações do mod Logistics Insights, em decorrência de uma atualização do mod.
+      - Adicionadas traduções para a Fazenda lunar, do mod Lunar panel, em cooperação com o mod Bio Industries.
+      - Atualizadas traduções para as configurações do mod Fusion Robots, em decorrência de uma atualização do mod.
+      - Atualizadas traduções para as configurações do mod Visible Planets in Space, em decorrência de uma atualização do mod.
+      - Atualizadas traduções para as configurações do mod Logistics Insights, em decorrência de uma atualização do mod.
+      - Adicionadas traduções para as configurações do mod Dynamic Rain, em decorrência de uma atualização do mod.
+      - Adicionadas traduções para as configurações e itens/entidades do mod Planet Vesta, em decorrência de uma atualização do mod.
   Alterações:
     - Adicionado novamente a lista de mods dependentes opcionais para ajudar a visualizar os mods suportados por este pacote in-game e tornar suas instalações mais dinâmicas.
       - Esses mods opcionais ao contrário do log de alterações, que ordena por pacotes de A-Z dentro de cada versão, serão exibidos em ordem alfabética unindo todos os mods do pacote para tornar mais fácil a localização in-game.
