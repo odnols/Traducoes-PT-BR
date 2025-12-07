@@ -32,7 +32,7 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos ( Atualmente: 26 )
-> V1.0.3 - `em breve` ( `+18 mods traduzidos` )
+> V1.0.3 - `em breve` ( `+19 mods traduzidos` )
 
 - [Actual Underground Pipes](https://mods.factorio.com/mod/the-one-mod-with-underground-bits) - por protocol_1903
 - [Assembling Machine 2.5](https://mods.factorio.com/mod/AssemblingMachine25) - por DrinkShellOil,
@@ -44,6 +44,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 - [Dynamic Rain](https://mods.factorio.com/mod/dynamic-rain) - por valertron
 - [Even More Text Plates](https://mods.factorio.com/mod/EvenMoreTextPlates) - por Zengineer
 - [Factorio+](https://mods.factorio.com/mod/factorioplus) - por Fishbus
+- [Fluid recycler](https://mods.factorio.com/mod/liquid_recycler) - por Powerscooter
 - [Fluroflux: Stingfrond Agriculture](https://mods.factorio.com/mod/fluroflux) - por LordMiguel
 - [HD planets](https://mods.factorio.com/mod/hd_planets) - por OwnlyMe
 - [Heat-resistant Pipes](https://mods.factorio.com/mod/HotPipesFork) - por NOiZE
