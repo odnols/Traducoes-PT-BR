@@ -31,8 +31,8 @@ ter justificativa para ser publicado no mod oficialmente.
 
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
-# 🔣 Mods traduzidos ( Atualmente: 26 )
-> V1.0.3 - `em breve` ( `+24 mods traduzidos` )
+# 🔣 Mods traduzidos ( Atualmente: 50 )
+> V1.0.3 - `07/12/2025` ( `+24 mods traduzidos` )
 
 - [Actual Underground Pipes](https://mods.factorio.com/mod/the-one-mod-with-underground-bits) - por protocol_1903
 - [Advanced Atomic Science](https://mods.factorio.com/mod/advanced-atomic-science) - por Velaanix,
@@ -89,4 +89,5 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 - [Reach Equipment](https://mods.factorio.com/mod/reach-equipment) - por BetweenWalls
 - [StarMap Background](https://mods.factorio.com/mod/Better_Starmap_Background) - por Tserup
 - [Text Plates](https://mods.factorio.com/mod/textplates) - por Earendel & gheift
+
 - [Visible Planets in Space](https://mods.factorio.com/mod/visible-planets) - por Nauviax
