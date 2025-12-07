@@ -13,10 +13,11 @@ Date: ?
     - Traduções vanilla:
       - Foram feitos vários ajustes aos nomes de recursos do jogo nesta versão do mod para corrigir nomes, descrições, interfaces, receitas, entidades e etc! Essas correções ficarão ativas enquanto o jogo não às integrar oficialmente através do Crowdin. De modo a corrigir vários problemas de escrita e gramática que são encontrados durante o desenvolvimento deste mod nos menus e itens do jogo.
         - Essas correções estão localizadas em locale/slondo-ptbr.cfg
-    - Mods traduzidos ( +20 / Total: 46)
+    - Mods traduzidos ( +21 / Total: 47)
       Actual Underground Pipes - por protocol_1903,
       Assembling Machine 2.5 - por DrinkShellOil,
       Basic Chemistry - por EleusisLaArwall,
+      Basic Chemistry Full Control - por EleusisLaArwall,
       Carbonut Agriculture - por Talandar99,
       Carnivorous Bacteria - por Pithlit,
       Cupric Asteroids - por SafTheLamb & S6X,
@@ -39,7 +40,6 @@ Date: ?
       - Atualizadas traduções para as configurações do mod Fusion Robots, em decorrência de uma atualização do mod.
       - Atualizadas traduções para as configurações do mod Visible Planets in Space, em decorrência de uma atualização do mod.
       - Atualizadas traduções para as configurações do mod Logistics Insights, em decorrência de uma atualização do mod.
-      - Adicionadas traduções para as configurações do mod Dynamic Rain, em decorrência de uma atualização do mod.
       - Adicionadas traduções para as configurações e itens/entidades do mod Planet Vesta, em decorrência de uma atualização do mod.
   Alterações:
     - Adicionado novamente a lista de mods dependentes opcionais para ajudar a visualizar os mods suportados por este pacote in-game e tornar suas instalações mais dinâmicas.
@@ -50,7 +50,7 @@ Date: ?
     - Ajustadas algumas descrições de configurações do mod Bio Industries para tornar a leitura mais coesa.
     - Ajustes gerais com pontuações finais e quebras de linhas em vários mods para tornar a leitura mais coesa.
   Problemas conhecidos:
-    - No mod Factorio+ o nome dos geradores dos inimigos está invertido, aparecendo o tamanho do gerador à frente do nome, ao invés de estar no final. Essa alteração é conhecida e uma proposta de correção já foi enviada ao criador do mod para que possa verificar. No momento não é possível realizar a correção pois essa ordem de escrita depende exclusivamente do mod, e no momento a nomeação dos ninhos deste mod é "hardcoded".
+    - No mod Factorio+ o nome dos ninhos dos inimigos está invertido, aparecendo o tamanho do ninho à frente do nome, ao invés de estar no final. Esse problema é conhecido e uma proposta de correção já foi enviada ao criador do mod para que possa verificar. No momento não é possível realizar a correção pois essa ordem de escrita depende exclusivamente do mod, e no momento a nomeação dos ninhos deste mod é "hardcoded", não sendo possível configurar através dos arquivos de tradução.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 15/11/2025
