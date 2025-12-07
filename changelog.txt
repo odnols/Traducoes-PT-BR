@@ -13,8 +13,9 @@ Date: ?
     - Traduções vanilla:
       - Foram feitos vários ajustes aos nomes de recursos do jogo nesta versão do mod para corrigir nomes, descrições, interfaces, receitas, entidades e etc! Essas correções ficarão ativas enquanto o jogo não às integrar oficialmente através do Crowdin. De modo a corrigir vários problemas de escrita e gramática que são encontrados durante o desenvolvimento deste mod nos menus e itens do jogo.
         - Essas correções estão localizadas em locale/slondo-ptbr.cfg
-    - Mods traduzidos ( +21 / Total: 47)
+    - Mods traduzidos ( +22 / Total: 48)
       Actual Underground Pipes - por protocol_1903,
+      Advanced Atomic Science - por Velaanix,
       Assembling Machine 2.5 - por DrinkShellOil,
       Basic Chemistry - por EleusisLaArwall,
       Basic Chemistry Full Control - por EleusisLaArwall,

@@ -8,6 +8,7 @@
   "dependencies": [
     "base",
     "? space-age",
+    "? advanced-atomic-science",
     "? AspctTrainPatch",
     "? AssemblingMachine25",
     "? basic-chemistry",
