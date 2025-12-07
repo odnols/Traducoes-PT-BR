@@ -13,7 +13,7 @@ Date: ?
     - Traduções vanilla:
       - Foram feitos vários ajustes aos nomes de recursos do jogo nesta versão do mod para corrigir nomes, descrições, interfaces, receitas, entidades e etc! Essas correções ficarão ativas enquanto o jogo não às integrar oficialmente através do Crowdin. De modo a corrigir vários problemas de escrita e gramática que são encontrados durante o desenvolvimento deste mod nos menus e itens do jogo.
         - Essas correções estão localizadas em locale/slondo-ptbr.cfg
-    - Mods traduzidos ( +19 / Total: 45)
+    - Mods traduzidos ( +20 / Total: 46)
       Actual Underground Pipes - por protocol_1903,
       Assembling Machine 2.5 - por DrinkShellOil,
       Basic Chemistry - por EleusisLaArwall,
@@ -28,6 +28,7 @@ Date: ?
       Fluroflux: Stingfrond Agriculture - por LordMiguel,
       HD planets - por OwnlyMe,
       Heat-resistant Pipes - por NOiZE,
+      Manufacturer - por Velaanix,
       Missile Defense Systems [SA] - por kafoaai,
       Parallel Research - por Tename,
       Scrappy Industry - por SafTheLamb,
