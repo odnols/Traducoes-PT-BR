@@ -2,13 +2,15 @@
 Version: 1.0.4
 Date: ?
   Adições:
-    - Mods traduzidos ( +4 / Total: 53)
+    - Mods traduzidos ( +5 / Total: 54)
       Alloy Smelting - por SafTheLamb & S6X,
       fdsl - por SafTheLamb,
       PlanetsLib - por thesixthroc,
+      Scrappy Chemistry - por SafTheLamb,
       Wooden Industry - por SafTheLamb
     - Mods atualizados:
       - Atualizadas traduções para as configurações do mod Dynamic Rain, em decorrência de uma atualização do mod.
+      - Atualizadas traduções para itens e configurações do mod Crushing Industry, em decorrência de uma atualização do mod.
   Remoções:
     - Mods removidos ( 1 )
       Toolbars - por zerwiport
@@ -16,6 +18,7 @@ Date: ?
     - "Trilho curvado" do mod Minimal Electric Rails foi alterado para "Trilho curvo" para se igualar ao nome padrão do jogo.
     - Adicionados mais correções para nomes de itens vanilla que estão errados no jogo padrão.
     - Alterado o nome do item "Tijolos de Madeira" do mod BioIndustries para ser um item singular.
+    - Adicionadas traduções faltantes para o mod Voidcraft que passaram despercebidas na última versão.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.3
 Date: 07/12/2025
