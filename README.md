@@ -32,8 +32,20 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos ( Atualmente: 50 )
+> V1.0.4 - `?` ( `+4 mod traduzido`, `-1 mod removido`)
+
+Adições:
+- [Allow Smelting](https://mods.factorio.com/mod/alloy-smelting) - por SafTheLamb & S6X,
+- [Factorio Data Standards Library](https://mods.factorio.com/mod/fdsl) - por SafTheLamb,
+- [PlanetLib](https://mods.factorio.com/mod/PlanetsLib) - por thesixthroc
+- [Wooden Industry](https://mods.factorio.com/mod/wood-industry) - por SafTheLamb
+
+Remoções:
+- [Toolbars](https://mods.factorio.com/mod/toolbars-mod) - por zerwiport
+
 > V1.0.3 - `07/12/2025` ( `+24 mods traduzidos` )
 
+Adições:
 - [Actual Underground Pipes](https://mods.factorio.com/mod/the-one-mod-with-underground-bits) - por protocol_1903
 - [Advanced Atomic Science](https://mods.factorio.com/mod/advanced-atomic-science) - por Velaanix,
 - [Assembling Machine 2.5](https://mods.factorio.com/mod/AssemblingMachine25) - por DrinkShellOil,
@@ -61,6 +73,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 
 > V1.0.2 - `15/11/2025` ( `+10 mods traduzidos` )
 
+Adições:
 - [Cannon Turret](https://mods.factorio.com/mod/vtk-cannon-turret) - por Vortik
 - [Carriage Transport](https://mods.factorio.com/mod/carriage) - por SoulCRYSIS
 - [Early Elevated Rails](https://mods.factorio.com/mod/early-elevated-rails) - por Marcel171297
@@ -74,6 +87,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 
 > V1.0.0 & 1.0.1 - 11/11/2025 ( `16 Mods traduzidos` )
 
+Adições:
 - [Battery-Electric Train](https://mods.factorio.com/mod/BatteryElectricTrain) - por catWEax
 - [Bio Industries](https://mods.factorio.com/mod/Bio_Industries_2) - por TheSAguy, Pi-C, Snouz & cackling.fiend
 - [Elevated pipes](https://mods.factorio.com/mod/elevated-pipes) - por Quezler & Redotix99
@@ -89,5 +103,4 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 - [Reach Equipment](https://mods.factorio.com/mod/reach-equipment) - por BetweenWalls
 - [StarMap Background](https://mods.factorio.com/mod/Better_Starmap_Background) - por Tserup
 - [Text Plates](https://mods.factorio.com/mod/textplates) - por Earendel & gheift
-
 - [Visible Planets in Space](https://mods.factorio.com/mod/visible-planets) - por Nauviax
