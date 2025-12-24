@@ -2,7 +2,8 @@
 Version: 1.0.4
 Date: ?
   Adições:
-    - Mods traduzidos ( +5 / Total: 54)
+    - Mods traduzidos ( +6 / Total: 55)
+      Agricultural Roboport - por Proffzulus,
       Alloy Smelting - por SafTheLamb & S6X,
       fdsl - por SafTheLamb,
       PlanetsLib - por thesixthroc,

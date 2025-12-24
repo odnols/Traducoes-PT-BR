@@ -32,9 +32,10 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos ( Atualmente: 50 )
-> V1.0.4 - `?` ( `+5 mod traduzido`, `-1 mod removido`)
+> V1.0.4 - `?` ( `+6 mod traduzido`, `-1 mod removido`)
 
 Adições:
+- [Agricultural Roboport](https://mods.factorio.com/mod/agricultural-roboport) - por Proffzulus,
 - [Alloy Smelting](https://mods.factorio.com/mod/alloy-smelting) - por SafTheLamb & S6X,
 - [Factorio Data Standards Library](https://mods.factorio.com/mod/fdsl) - por SafTheLamb,
 - [PlanetLib](https://mods.factorio.com/mod/PlanetsLib) - por thesixthroc,
