@@ -2,11 +2,15 @@
 Version: 1.0.4
 Date: ?
   Adições:
-    - Mods traduzidos ( +6 / Total: 55)
+    - Mods traduzidos ( +10 / Total: 59)
+      AAI Loaders - por Earendel,
       Agricultural Roboport - por Proffzulus,
       Alloy Smelting - por SafTheLamb & S6X,
       fdsl - por SafTheLamb,
       PlanetsLib - por thesixthroc,
+      Promethium Belts - por Helios467,
+      Quantum emitter - por Azertyyu,
+      Robocharger-Updated - por Smurph & briel1235,
       Scrappy Chemistry - por SafTheLamb,
       Wooden Industry - por SafTheLamb
     - Mods atualizados:
