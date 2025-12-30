@@ -36,7 +36,7 @@ if mods["Bio_Industries_2"] == nil then
     end
 end
 
--- factorissimo 2
-if mods["factorissimo-2"] == nil then
+-- factorissimo 3
+if mods["factorissimo-2-notnotmelon"] == nil then
     data.raw.item["agricultural-tower"].localised_description = {"entity-description.slondo-ptbr-agricultural-tower"}
 end
