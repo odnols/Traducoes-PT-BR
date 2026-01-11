@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.5
+Date: ?
+  Ajustes:
+    - "Bóia" do mod Cargo Ships foi alterado para "Bóia de sinalização" para ficar de acordo com sua contraparte em cadeia.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.4
 Date: 11/01/2026
   Adições:
