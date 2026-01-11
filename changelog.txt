@@ -1,20 +1,34 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.4
-Date: ?
+Date: 11/01/2026
   Adições:
-    - Mods traduzidos ( +13 / Total: 62)
+    - Mods traduzidos ( +27 / Total: 76)
       AAI Loaders - por Earendel,
       Agricultural Roboport - por Proffzulus,
       Alloy Smelting - por SafTheLamb & S6X,
+      Barreling Group - por pav, GeneralTank & Evilpla,
+      Canal Excavator - por Jurgy,
+      Cargo Crates - por Talandar99,
+      Cargo Ships - por rude_grass & snouz,
+      Diesel Engine - por Talandar99,
+      Distant Shores - por micaalle,
       Factorissimo 3 - por MagmaMcFry & notnotmelon,
       fdsl - por SafTheLamb,
       Fundryu - por Azertyyu,
+      HD Plasma Duct - por Powerscooter & Keysivi,
+      Larger Lamps 2.0 - por Deadlock989, Goakiller900, MasterBuilder & NullHarp,
+      Long range delivery drones (fork) - por Talandar99,
+      Molten plastic - por Powerscooter,
       PlanetsLib - por thesixthroc,
+      Planet Pelagos - por Talandar99,
+      Plasma Handling - por Powerscooter,
+      Plasma Industries - por Powerscooter,
       Promethium Belts - por Helios467,
       Quantum emitter - por Azertyyu,
       Quantum lab - por Azertyyu,
       Robocharger-Updated - por Smurph & briel1235,
       Scrappy Chemistry - por SafTheLamb,
+      Various Cargo Bays - por Powerscooter,
       Wooden Industry - por SafTheLamb
     - Mods atualizados:
       - Atualizadas traduções para as configurações do mod Dynamic Rain, em decorrência de uma atualização do mod.
@@ -27,6 +41,10 @@ Date: ?
     - Adicionados mais correções para nomes de itens vanilla que estão errados no jogo padrão.
     - Alterado o nome do item "Tijolos de Madeira" do mod BioIndustries para ser um item singular.
     - Adicionadas traduções faltantes para o mod Voidcraft que passaram despercebidas na última versão.
+  Notes:
+    - The Toolbars mod was removed in this version due to incompatibility with localizations. It may be reimplemented in the future if the developer natively includes support for .cfg files and localizations. Currently, it is not possible to include translations for any other language in this specific mod.
+    - The Cargo Ships mod has pt-br localizations for an older version of the mod within its files. We recognize that it has an active project on CrowdIn, and suggestions have been submitted so that they can be added to the mod in a future update. Until that happens, and with the addition of Pelagos on this version, we are uploading missing translations and correcting/adjusting other translations here as well!
+      - If you are the mod developer of cargo ships and wish to use our translations, feel free to update! ;)
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.3
 Date: 07/12/2025

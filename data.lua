@@ -21,6 +21,11 @@ if mods["space-age"] ~= nil then
 
     data.raw.item["tungsten-plate"].localised_name = {"item-name.slondo-ptbr-tungsten-plate"}
     data.raw["autoplace-control"]["tungsten_ore"].localised_name = {"autoplace-control-names.slondo-ptbr-tungsten-ore"}
+
+    -- factorissimo 3
+    if mods["factorissimo-2-notnotmelon"] == nil then
+        data.raw.item["agricultural-tower"].localised_description = {"entity-description.slondo-ptbr-agricultural-tower"}
+    end
 end
 
 -- bioindustries2
@@ -36,7 +41,20 @@ if mods["Bio_Industries_2"] == nil then
     end
 end
 
--- factorissimo 3
-if mods["factorissimo-2-notnotmelon"] == nil then
-    data.raw.item["agricultural-tower"].localised_description = {"entity-description.slondo-ptbr-agricultural-tower"}
+-- canal-excavator without pelagos
+if mods["canal-excavator"] ~= nil and mods["pelagos"] == nil then
+
+    data.raw.technology["canex-excavator"].localised_name = {"technology-name.slondo-ptbr-canex-excavator"}
+    data.raw.technology["canex-excavator"].localised_description =
+        {"technology-description.slondo-ptbr-canex-excavator"}
+
+    data.raw.item["canex-excavator"].localised_name = {"item-name.slondo-ptbr-canex-excavator"}
+    data.raw.item["canex-excavator"].localised_name = {"entity-name.slondo-ptbr-canex-excavator"}
+    data.raw.recipe["canex-excavator"].localised_name = {"recipe-name.slondo-ptbr-canex-excavator"}
+end
+
+-- LargerLamps-2_0
+if mods["LargerLamps-2_0"] == nil then
+    data.raw.item["small-lamp"].localised_name = {"entity-name.slondo-ptbr-small-lamp"}
+    data.raw.item["small-lamp"].localised_description = {""}
 end

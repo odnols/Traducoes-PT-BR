@@ -31,22 +31,36 @@ ter justificativa para ser publicado no mod oficialmente.
 
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
-# 🔣 Mods traduzidos ( Atualmente: 50 )
-> V1.0.4 - `?` ( `+13 mod traduzido`, `-1 mod removido`)
+# 🔣 Mods traduzidos ( Atualmente: 76 )
+> V1.0.4 - `11/01/2026` ( `+27 mods traduzido`, `-1 mod removido`)
 
 Adições:
 - [AAI Loaders](https://mods.factorio.com/mod/aai-loaders) - por Earendel,
 - [Agricultural Roboport](https://mods.factorio.com/mod/agricultural-roboport) - por Proffzulus,
 - [Alloy Smelting](https://mods.factorio.com/mod/alloy-smelting) - por SafTheLamb & S6X,
+- [Barreling Group](https://mods.factorio.com/mod/barreling-group2) - por pav, GeneralTank & Evilpla,
+- [Canal Excavator](https://mods.factorio.com/mod/canal-excavator) - por Jurgy,
+- [Cargo Crates](https://mods.factorio.com/mod/cargo_crates) - por Talandar99,
+- [Cargo Ships](https://mods.factorio.com/mod/cargo-ships/) - por schnurrebutz & snouz,
+- [Diesel Engine](https://mods.factorio.com/mod/diesel_engine) - por Talandar99,
+- [Distant Shores](https://mods.factorio.com/mod/pirateship) - por micaalle,
 - [Factorio Data Standards Library](https://mods.factorio.com/mod/fdsl) - por SafTheLamb,
 - [Factorissimo 3](https://mods.factorio.com/mod/factorissimo-2-notnotmelon) - por MagmaMcFry & notnotmelon,
 - [Fundryu](https://mods.factorio.com/mod/Fundryu) - por Azertyyu,
+- [HD Plasma Duct](https://mods.factorio.com/mod/hd-plasma-duct) - por Powerscooter & Keysivi,
+- [Larger Lamps 2.0](https://mods.factorio.com/mod/LargerLamps-2_0) - por Deadlock989, Goakiller900, MasterBuilder & NullHarp,
+- [Long range delivery drones (fork)](https://mods.factorio.com/mod/long_range_delivery_drones_talandar_fork) - por Talandar99,
+- [Molten plastic](https://mods.factorio.com/mod/molten_plastic) - por Powerscooter,
 - [PlanetLib](https://mods.factorio.com/mod/PlanetsLib) - por thesixthroc,
+- [Planet Pelagos](https://mods.factorio.com/mod/pelagos) - por Talandar99,
+- [Plasma Handling](https://mods.factorio.com/mod/plasma_handling) - por Powerscooter,
+- [Plasma Industries](https://mods.factorio.com/mod/plasma_crafter) - por Powerscooter,
 - [Promethium Belts](https://mods.factorio.com/mod/promethium-belts) - por Helios467,
 - [Quantum emitter](https://mods.factorio.com/mod/Quantum-diffuser) - por Azertyyu,
 - [Quantum Lab](https://mods.factorio.com/mod/quantum_lab) - por Azertyyu,
 - [Robocharger Factorio 2.0](https://mods.factorio.com/mod/Robocharger-Updated) - por Smurph & briel1235,
 - [Scrappy Chemistry](https://mods.factorio.com/mod/scrap-chemistry) - por SafTheLamb,
+- [Various Cargo Bays](https://mods.factorio.com/mod/Various_Cargo_Bays) - por Powerscooter,
 - [Wooden Industry](https://mods.factorio.com/mod/wood-industry) - por SafTheLamb
 
 Remoções:
