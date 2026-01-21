@@ -37,10 +37,12 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos ( Atualmente: 76 )
-> V1.0.5 - `upcoming` ( `+2 mods traduzidos` )
+> V1.0.5 - `upcoming` ( `+4 mods traduzidos` )
 
 Adições:
-- [Maraxsis](https://mods.factorio.com/mod/maraxsis) - por notnotmelon
+- [Planet Akularis](https://mods.factorio.com/mod/planet-akularis) - por rjdunlap
+- [Planet Hexalith](https://mods.factorio.com/mod/planet-hexalith) - por rjdunlap
+- [Planet Maraxsis](https://mods.factorio.com/mod/maraxsis) - por notnotmelon
 - [Wire Lamps](https://mods.factorio.com/mod/wire_lamps) - por peterwolf.pl
 
 > V1.0.4 - `11/01/2026` ( `+27 mods traduzidos`, `-1 mod removido`)

@@ -2,8 +2,10 @@
 Version: 1.0.5
 Date: ?
   Adições:
-    - Mods traduzidos ( +2 / Total: 78)
-      Maraxsis - por notnotmelon,
+    - Mods traduzidos ( +4 / Total: 80)
+      Planet Akularis - por rjdunlap,
+      Planet Hexalith - por rjdunlap,
+      Planet Maraxsis - por notnotmelon,
       Wire Lamps - por peterwolf.pl
   Ajustes:
     - "Bóia" do mod Cargo Ships foi alterado para "Bóia de sinalização" para ficar de acordo com sua contraparte em cadeia.
@@ -11,6 +13,9 @@ Date: ?
     - Adicionadas mais correções para nomes de pesquisas e itens do vanilla que estão errados ou em desacordo no jogo base.
     - Adicionadas traduções faltantes para o mod Planet Pelagos que passaram despercebidas na última versão.
     - "Capsula de captura de Pelagos" do mod Planet Pelagos foi alterado para "Robô foguete de captura de Pelagos" para ficar de acordo com sua contraparte de Nauvis (incluso na expansão Era Espacial).
+  Notes:
+    - In this version, we are adding names and descriptions of achievements for all planets in the pack, and for those that will be added in the future. Many of these planets do not have natively integrated achievements; however, locations will still be provided for possible future use.
+      - With that in mind, the mods that don't have achievements but do have their achievements locations integrated are: Planet Vesta, Pelagos, Hexalith & Akularis.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.4
 Date: 11/01/2026
