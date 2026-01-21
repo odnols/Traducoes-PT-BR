@@ -1,8 +1,16 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.5
 Date: ?
+  Adições:
+    - Mods traduzidos ( +2 / Total: 78)
+      Maraxsis - por notnotmelon,
+      Wire Lamps - por peterwolf.pl
   Ajustes:
     - "Bóia" do mod Cargo Ships foi alterado para "Bóia de sinalização" para ficar de acordo com sua contraparte em cadeia.
+    - "Munição de dardos" do mod Bio Industries 2 foi alterado apenas para "Dardos" para simplificar o nome.
+    - Adicionadas mais correções para nomes de pesquisas e itens do vanilla que estão errados ou em desacordo no jogo base.
+    - Adicionadas traduções faltantes para o mod Planet Pelagos que passaram despercebidas na última versão.
+    - "Capsula de captura de Pelagos" do mod Planet Pelagos foi alterado para "Robô foguete de captura de Pelagos" para ficar de acordo com sua contraparte de Nauvis (incluso na expansão Era Espacial).
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.4
 Date: 11/01/2026
@@ -43,7 +51,7 @@ Date: 11/01/2026
       Toolbars - por zerwiport
   Ajustes:
     - "Trilho curvado" do mod Minimal Electric Rails foi alterado para "Trilho curvo" para se igualar ao nome padrão do jogo.
-    - Adicionados mais correções para nomes de itens vanilla que estão errados no jogo padrão.
+    - Adicionadas mais correções para nomes de itens vanilla que estão errados no jogo padrão.
     - Alterado o nome do item "Tijolos de Madeira" do mod BioIndustries para ser um item singular.
     - Adicionadas traduções faltantes para o mod Voidcraft que passaram despercebidas na última versão.
   Notes:
