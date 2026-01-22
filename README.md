@@ -36,7 +36,8 @@ ter justificativa para ser publicado no mod oficialmente.
 
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
-# 🔣 Mods traduzidos ( Atualmente: 76 `+ 4 em breve` )
+# 🔣 Mods traduzidos 
+- ( Atualmente: 76 `+ 4 em breve` )
 | Integrado | Versão do Mod | Mod e autor(es) | Observações |
 |:---:|:---:|:----|:---:|
 | `V1.0.5` | `0.1.1` | [Planet Akularis](https://mods.factorio.com/mod/planet-akularis) por rjdunlap | `em breve` |
