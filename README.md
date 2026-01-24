@@ -37,14 +37,12 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos
-- ( Atualmente: 76 `+ 4 em breve` )
+- ( Atualmente: 76 `+ 8 em breve` )
 
 📊 **Supported mods:**
 
 [View Spreadsheet](mods.csv) - An ordered list of all supported mods, similar to the one below, but in English.
-> "Mod version" refers to the version that was used as the basis for creating the localizations for the specific mod. This number will change if more words are added to the mod.
-
-> 🛃 Abaixo há o campo "Integrado" e o "Versão do Mod", integrado se refere a versão do pacote de traduções que adicionou suporte ao mod. Versão do Mod representa a versão utilizada como base para prover a localização, esse número não significa que o pacote só funcionará nessa versão do Mod, mas que essa versão foi utilizada como base para as traduções. Caso um mod atualize, adicionando ou alterando os textos, o as traduções neste pacote e essa versão escrita na tabela serão atualizadas.
+> "Mod version" on the csv file refers to the version that was used as the basis for creating the localizations for the specific mod. This number will change if more words are added to the mod.
 
 | Integrado | Mod | Autor(es) | Lançamento |
 |:--------:|:-------------:|:----|:---------|
@@ -75,6 +73,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.2` | [Early Elevated Rails](https://mods.factorio.com/mod/early-elevated-rails) | Marcel171297 | `15/11/2025` |
 | `V1.0.0` | [Elevated pipes](https://mods.factorio.com/mod/elevated-pipes) | Quezler & Redotix99 | `11/11/2025` |
 | `V1.0.3` | [Even More Text Plates](https://mods.factorio.com/mod/EvenMoreTextPlates) | Zengineer | `07/12/2025` |
+| `V1.0.5` | [Extra Storage Tanks: Tiny Storage Tanks](https://mods.factorio.com/mod/est-tiny-storage-tank) | ZarSasha, Aurora & Moonlight | `em breve` |
 | `V1.0.3` | [Factorio+](https://mods.factorio.com/mod/factorioplus) | Fishbus | `07/12/2025` |
 | `V1.0.3` | [Factorio Data Standards Library](https://mods.factorio.com/mod/fdsl) | SafTheLamb | `07/12/2025` |
 | `V1.0.3` | [Factorissimo 3](https://mods.factorio.com/mod/factorissimo-2-notnotmelon) | MagmaMcFry & notnotmelon | `07/12/2025` |
@@ -111,8 +110,11 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.3` | [Quantum emitter](https://mods.factorio.com/mod/Quantum-diffuser) | Azertyyu | `07/12/2025` |
 | `V1.0.3` | [Quantum Lab](https://mods.factorio.com/mod/quantum_lab) | Azertyyu | `07/12/2025` |
 | `V1.0.0` | [Reach Equipment](https://mods.factorio.com/mod/reach-equipment) | BetweenWalls | `11/11/2025` |
+| `V1.0.5` | [Scrap Toolkit](https://mods.factorio.com/mod/scraptk) | SafTheLamb & S6X | `em breve` |
 | `V1.0.3` | [Scrappy Chemistry](https://mods.factorio.com/mod/scrap-chemistry) | SafTheLamb | `07/12/2025` |
 | `V1.0.3` | [Scrappy Industry](https://mods.factorio.com/mod/scrap-industry) | SafTheLamb | `07/12/2025` |
+| `V1.0.5` | [Spidertron Enhancements](https://mods.factorio.com/mod/SpidertronEnhancements) | Xorimuth | `em breve` |
+| `V1.0.5` | [Spidertron Patrols](https://mods.factorio.com/mod/SpidertronPatrols) | Xorimuth | `em breve` |
 | `V1.0.0` | [StarMap Background](https://mods.factorio.com/mod/Better_Starmap_Background) | Tserup | `11/11/2025` |
 | `V1.0.2` | [Sushi Splitters](https://mods.factorio.com/mod/sushi-splitters) | TeXiCiTy | `15/11/2025` |
 | `V1.0.0` | [Text Plates](https://mods.factorio.com/mod/textplates) | Earendel & gheift | `11/11/2025` |
