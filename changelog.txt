@@ -15,8 +15,8 @@ Date: ?
       - Atualizadas traduções do mod Alloy Smelting, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Cargo Crates, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Crushing Industry, em decorrência de uma atualização do mod.
-      - Atualizadas traduções do mod Factorissimo 3, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Factorio+, em decorrência de uma atualização do mod.
+      - Atualizadas traduções do mod Factorissimo 3, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Fluid Recycler, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Fracking Tower, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Lunar Panel, em decorrência de uma atualização do mod.
@@ -40,7 +40,8 @@ Date: ?
       - The version logs will not undergo formatting updates; however, they will retain their original formatting and only include the mods that were actually added/removed.
   Notes:
     - In this version, we are adding names and descriptions of achievements for all planets in the pack, and for those that will be added in the future. Many of these planets do not have natively integrated achievements; however, locations will still be provided for possible future use.
-      - With that in mind, the mods that don't have achievements but do have their achievements locations integrated are: Planet Vesta, Pelagos, Hexalith & Akularis.
+      - With that in mind, the mods that don't have achievements but do have their "achievements" properly localised are: Planet Vesta, Pelagos, Hexalith & Akularis.
+        - If you are the developer of one of the listed mods, please check your mod's file to find the [achievement-name] and [achievement-description] tags included at the end of the .cfg file.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.4
 Date: 11/01/2026
