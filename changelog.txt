@@ -2,15 +2,18 @@
 Version: 1.0.5
 Date: ?
   Adições:
-    - Mods traduzidos ( +8 / Total: 84)
+    - Mods traduzidos ( +11 / Total: 87)
+      Apia - por DimonSever000, 
       Extra Storage Tanks: Tiny Storage Tanks - por ZarSasha, Aurora & Moonlight,
       Planet Akularis - por rjdunlap,
       Planet Hexalith - por rjdunlap,
       Planet Maraxsis - por notnotmelon,
+      Pneumatic Mining Drill - por Wolbobus,
       Scrap Toolkit - por SafTheLamb & S6X,
       Spidertron Enhancements - por Xorimuth,
       Spidertron Patrols - por Xorimuth,
       Wire Lamps - por peterwolf.pl
+      Wooden Platform - por Talandar99,
     - Mods atualizados:
       - Atualizadas traduções do mod Alloy Smelting, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Cargo Crates, em decorrência de uma atualização do mod.

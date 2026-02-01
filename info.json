@@ -7,10 +7,13 @@
   "description": "Pacote com traduções para vários mods, esse pacote será atualizado a medida que muitos mods forem traduzidos. Sugestões de mods a serem traduzidos podem ser feitas a qualquer momento!\n\n-> If you are a mod creator and your mod is listed here, feel free to get a copy of the translations that have been made, or add our mod as a optional dependency on your mod!\n\n-> If your mod is not listed here and you would like to locate your mod to Brazilian Portuguese with as much accurate detail as possible, or your mod changed/add phrases..., contact me!",
   "factorio_version": "2.0",
   "dependencies": [
+    "base",
+    "? space-age",
     "? aai-loaders",
     "? advanced-atomic-science",
     "? agricultural-roboport",
     "? alloy-smelting",
+    "? apia",
     "? AspctTrainPatch",
     "? AssemblingMachine25",
     "? barreling-group2",
@@ -66,6 +69,7 @@
     "? planet-hexalith",
     "? plasma_crafter",
     "? plasma_handling",
+    "? pneumatic-mining-drill",
     "? promethium-belts",
     "? Quantum-diffuser",
     "? quantum_lab",
@@ -87,6 +91,7 @@
     "? Voidcraft",
     "? vtk-cannon-turret",
     "? wire_lamps",
+    "? wooden_platform",
     "? wood-industry",
     "? wood-logistics"
   ]

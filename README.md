@@ -37,7 +37,7 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos
-- ( Atualmente: 76 `+ 8 em breve` )
+- ( Atualmente: 76 `+ 11 em breve` )
 
 📊 **Supported mods:**
 
@@ -51,6 +51,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.3` | [Advanced Atomic Science](https://mods.factorio.com/mod/advanced-atomic-science) | Velaanix | `07/12/2025` |
 | `V1.0.4` | [Agricultural Roboport](https://mods.factorio.com/mod/agricultural-roboport) | Proffzulus | `11/01/2026` |
 | `V1.0.4` | [Alloy Smelting](https://mods.factorio.com/mod/alloy-smelting) | SafTheLamb & S6X | `11/01/2026` |
+| `V1.0.5` | [Apia](https://mods.factorio.com/mod/apia) | DimonSever000 | `em breve` |
 | `V1.0.3` | [Assembling Machine 2.5](https://mods.factorio.com/mod/AssemblingMachine25) | DrinkShellOil | `07/12/2025` |
 | `V1.0.4` | [Barreling Group](https://mods.factorio.com/mod/barreling-group2) | pav, GeneralTank & Evilpla | `11/01/2026` |
 | `V1.0.3` | [Basic Chemistry](https://mods.factorio.com/mod/basic-chemistry) | EleusisLaArwall | `07/12/2025` |
@@ -109,6 +110,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.0` | [Plasma Accelerator](https://mods.factorio.com/mod/reactor-m) | ArkadiPorovozov | `11/11/2025` |
 | `V1.0.4` | [Plasma Handling](https://mods.factorio.com/mod/plasma_handling) | Powerscooter | `11/01/2026` |
 | `V1.0.4` | [Plasma Industries](https://mods.factorio.com/mod/plasma_crafter) | Powerscooter | `11/01/2026` |
+| `V1.0.5` | [Pneumatic Mining Drill](https://mods.factorio.com/mod/pneumatic-mining-drill) | Wolbobus | `em breve` |
 | `V1.0.4` | [Promethium Belts](https://mods.factorio.com/mod/promethium-belts) | Helios467 | `11/01/2026` |
 | `V1.0.4` | [Quantum emitter](https://mods.factorio.com/mod/Quantum-diffuser) | Azertyyu | `11/01/2026` |
 | `V1.0.4` | [Quantum Lab](https://mods.factorio.com/mod/quantum_lab) | Azertyyu | `11/01/2026` |
@@ -129,3 +131,4 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.5` | [Wire Lamps](https://mods.factorio.com/mod/wire_lamps) | peterwolf.pl | `em breve` |
 | `V1.0.4` | [Wooden Industry](https://mods.factorio.com/mod/wood-industry) | SafTheLamb | `11/01/2026` |
 | `V1.0.3` | [Wooden Logistics](https://mods.factorio.com/mod/wood-logistics) | SafTheLamb | `07/12/2025` |
+| `V1.0.5` | [Wooden Platform](https://mods.factorio.com/mod/wooden_platform) | Talandar99 | `em breve` |
