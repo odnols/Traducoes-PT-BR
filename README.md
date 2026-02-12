@@ -37,7 +37,7 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos
-- ( Atualmente: 76 `+ 11 em breve` )
+- ( Atualmente: 76 `+ 12 em breve` )
 
 📊 **Supported mods:**
 
@@ -102,6 +102,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.3` | [Parallel Research](https://mods.factorio.com/mod/simultaneous-research) | Tename | `07/12/2025` |
 | `V1.0.5` | [Planet Akularis](https://mods.factorio.com/mod/planet-akularis) | rjdunlap | `em breve` |
 | `V1.0.2` | [Planet Belt Portal](https://mods.factorio.com/mod/planet-belt-portal) | agaede22 | `15/11/2025` |
+| `V1.0.5` | [Planet Foliax](https://mods.factorio.com/mod/foliax) | Crethor | `em breve` |
 | `V1.0.5` | [Planet Hexalith](https://mods.factorio.com/mod/planet-hexalith) | rjdunlap | `em breve` |
 | `V1.0.5` | [Planet Maraxsis](https://mods.factorio.com/mod/maraxsis) | notnotmelon | `em breve` |
 | `V1.0.4` | [Planet Pelagos](https://mods.factorio.com/mod/pelagos) | Talandar99 | `11/01/2026` |
