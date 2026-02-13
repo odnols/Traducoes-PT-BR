@@ -83,6 +83,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.3` | [Fluroflux: Stingfrond Agriculture](https://mods.factorio.com/mod/fluroflux) | LordMiguel | `07/12/2025` |
 | `V1.0.0` | [Fracking Tower](https://mods.factorio.com/mod/pk-fracking-tower) | GammaDelta | `11/11/2025` |
 | `V1.0.4` | [Fundryu](https://mods.factorio.com/mod/Fundryu) | Azertyyu | `11/01/2026` |
+| `V1.0.5` | [Fusion Machines](https://mods.factorio.com/mod/fusion_machines) | Talandar99 | `em breve` |
 | `V1.0.0` | [Fusion Robots](https://mods.factorio.com/mod/FusionPoweredRobots) | Acouya | `11/11/2025` |
 | `V1.0.3` | [HD planets](https://mods.factorio.com/mod/hd_planets) | OwnlyMe | `07/12/2025` |
 | `V1.0.4` | [HD Plasma Duct](https://mods.factorio.com/mod/hd-plasma-duct) | Powerscooter & Keysivi | `11/01/2026` |

@@ -2,9 +2,10 @@
 Version: 1.0.5
 Date: ?
   Adições:
-    - Mods traduzidos ( +12 / Total: 88)
+    - Mods traduzidos ( +13 / Total: 89)
       Apia - por DimonSever000,
       Extra Storage Tanks: Tiny Storage Tanks - por ZarSasha, Aurora & Moonlight,
+      Fusion Machines - por Talandar99,
       Planet Akularis - por rjdunlap,
       Planet Foliax - por Crethor,
       Planet Hexalith - por rjdunlap,
@@ -13,8 +14,8 @@ Date: ?
       Scrap Toolkit - por SafTheLamb & S6X,
       Spidertron Enhancements - por Xorimuth,
       Spidertron Patrols - por Xorimuth,
-      Wire Lamps - por peterwolf.pl
-      Wooden Platform - por Talandar99,
+      Wire Lamps - por peterwolf.pl,
+      Wooden Platform - por Talandar99
     - Mods atualizados:
       - Atualizadas traduções do mod Alloy Smelting, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Cargo Crates, em decorrência de uma atualização do mod.
@@ -28,6 +29,7 @@ Date: ?
       - Atualizadas traduções do mod Molten plastic, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Ore-ganizer, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Planet Vesta, em decorrência de uma atualização do mod.
+      - Atualizadas traduções do mod PlanetsLib, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Scrappy Chemistry, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Voidcraft, em decorrência de uma atualização do mod.
   Ajustes:
