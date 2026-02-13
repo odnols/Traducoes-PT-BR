@@ -1,11 +1,12 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.5
-Date: ?
+Date: 12/02/2026
   Adições:
-    - Mods traduzidos ( +13 / Total: 89)
+    - Mods traduzidos ( +14 / Total: 90)
       Apia - por DimonSever000,
       Extra Storage Tanks: Tiny Storage Tanks - por ZarSasha, Aurora & Moonlight,
       Fusion Machines - por Talandar99,
+      Lubrication Tower - por Talandar99,
       Planet Akularis - por rjdunlap,
       Planet Foliax - por Crethor,
       Planet Hexalith - por rjdunlap,
