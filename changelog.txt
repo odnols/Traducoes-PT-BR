@@ -1,8 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: ?
+  Adições:
+    - Mods traduzidos ( +1 / Total: 91 )
+      Crane Builder - por XenoLupus
 Version: 1.0.5
 Date: 12/02/2026
   Adições:
-    - Mods traduzidos ( +14 / Total: 90)
+    - Mods traduzidos ( +14 / Total: 90 )
       Apia - por DimonSever000,
       Extra Storage Tanks: Tiny Storage Tanks - por ZarSasha, Aurora & Moonlight,
       Fusion Machines - por Talandar99,
@@ -39,7 +44,7 @@ Date: 12/02/2026
     - Adicionadas mais correções para nomes de pesquisas e itens do vanilla que estão errados ou em desacordo no jogo base.
     - Adicionadas traduções faltantes para o mod Planet Pelagos que passaram despercebidas na última versão.
     - "Capsula de captura de Pelagos" do mod Planet Pelagos foi alterado para "Robô foguete de captura de Pelagos" para ficar de acordo com sua contraparte de Nauvis (incluso na expansão Era Espacial).
-    - Vários ajustes foram feitas nas descrições de alguns itens do mod Cargo Ships para corrigir erros de escrita e tornar mais parecido com descrições de recursos já existentes no jogo, por exemplo, as bóias de sinalização.
+    - Vários ajustes foram feitos nas descrições de alguns itens do mod Cargo Ships para corrigir erros de escrita e tornar mais parecido com descrições de recursos já existentes no jogo, por exemplo, as bóias de sinalização.
   Github:
     - A spreadsheet has been added containing all the mods supported in the package, and their versions, which were used as a basis for the translation.
       - The file contains all supported mods in alphabetical order and is accessible via the project's GitHub repository or by browsing the mod files in %appdata%/factorio/mods/slondo-ptbr in the mods.csv file.
@@ -53,7 +58,7 @@ Date: 12/02/2026
 Version: 1.0.4
 Date: 11/01/2026
   Adições:
-    - Mods traduzidos ( +27 / Total: 76)
+    - Mods traduzidos ( +27 / Total: 76 )
       AAI Loaders - por Earendel,
       Agricultural Roboport - por Proffzulus,
       Alloy Smelting - por SafTheLamb & S6X,
@@ -111,7 +116,7 @@ Date: 07/12/2025
     - Traduções vanilla:
       - Foram feitos vários ajustes aos nomes de recursos do jogo nesta versão do mod para corrigir nomes, descrições, interfaces, receitas, entidades e etc! Essas correções ficarão ativas enquanto o jogo não às integrar oficialmente através do Crowdin. De modo a corrigir vários problemas de escrita e gramática que são encontrados durante o desenvolvimento deste mod nos menus e itens do jogo.
         - Essas correções estão localizadas em locale/slondo-ptbr.cfg
-    - Mods traduzidos ( +24 / Total: 50)
+    - Mods traduzidos ( +24 / Total: 50 )
       Actual Underground Pipes - por protocol_1903,
       Advanced Atomic Science - por Velaanix,
       Assembling Machine 2.5 - por DrinkShellOil,
