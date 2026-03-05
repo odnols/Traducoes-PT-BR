@@ -2,8 +2,10 @@
 Version: 1.0.6
 Date: ?
   Adições:
-    - Mods traduzidos ( +1 / Total: 91 )
-      Crane Builder - por XenoLupus
+    - Mods traduzidos ( +3 / Total: 93 )
+      Crane Builder - por XenoLupus,
+      Logistic Technology Beacon 2.0 - por cosinusek,
+      Wooden Moshine: Solaponics - por SafTheLamb
 Version: 1.0.5
 Date: 12/02/2026
   Adições:

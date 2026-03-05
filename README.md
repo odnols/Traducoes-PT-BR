@@ -37,7 +37,7 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos
-- ( Atualmente: 90 )
+- ( Atualmente: 90 / +3 em breve )
 
 📊 **Supported mods:**
 
@@ -66,6 +66,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.4` | [Cargo Ships](https://mods.factorio.com/mod/cargo-ships) | schnurrebutz & snouz | `11/01/2026` |
 | `V1.0.2` | [Carriage Transport](https://mods.factorio.com/mod/carriage) | SoulCRYSIS | `15/11/2025` |
 | `V1.0.3` | [Carnivorous Bacteria](https://mods.factorio.com/mod/carnivorous_bacteria) | Pithlit | `07/12/2025` |
+| `V1.0.6` | [Crane Builder](https://mods.factorio.com/mod/crane-builder) | XenoLupus | `em breve` |
 | `V1.0.3` | [Crushing Industry](https://mods.factorio.com/mod/crushing-industry) | SafTheLamb & S6X | `07/12/2025` |
 | `V1.0.3` | [Cupric Asteroids](https://mods.factorio.com/mod/cupric-asteroids) | SafTheLamb & S6X | `07/12/2025` |
 | `V1.0.4` | [Diesel Engine](https://mods.factorio.com/mod/diesel_engine) | Talandar99 | `11/01/2026` |
@@ -91,6 +92,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.3` | [Heat-resistant Pipes](https://mods.factorio.com/mod/HotPipesFork) | NOiZE | `07/12/2025` |
 | `V1.0.4` | [Larger Lamps 2.0](https://mods.factorio.com/mod/LargerLamps-2_0) | Deadlock989, Goakiller900, MasterBuilder & NullHarp | `11/01/2026` |
 | `V1.0.0` | [Legacy Train Model](https://mods.factorio.com/mod/AspctTrainPatch) | aspct | `11/11/2025` |
+| `V1.0.6` | [Logistic Technology Beacon 2.0](https://mods.factorio.com/mod/logtech-beacon-2) | cosinusek | `em breve` |
 | `V1.0.2` | [Logistics Insights](https://mods.factorio.com/mod/logistics-insights) | farzag | `15/11/2025` |
 | `V1.0.4` | [Long range delivery drones (fork)](https://mods.factorio.com/mod/long_range_delivery_drones_talandar_fork) | Talandar99 | `11/01/2026` |
 | `V1.0.5` | [Lubrication Tower](https://mods.factorio.com/mod/lubrication_tower) | Talandar99 | `12/02/2026` |
@@ -134,4 +136,5 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.5` | [Wire Lamps](https://mods.factorio.com/mod/wire_lamps) | peterwolf.pl | `12/02/2026` |
 | `V1.0.4` | [Wooden Industry](https://mods.factorio.com/mod/wood-industry) | SafTheLamb | `11/01/2026` |
 | `V1.0.3` | [Wooden Logistics](https://mods.factorio.com/mod/wood-logistics) | SafTheLamb | `07/12/2025` |
+| `V1.0.6` | [Wooden Moshine: Solaponics](https://mods.factorio.com/mod/moshine-solaponics) | SafTheLamb | `em breve` |
 | `V1.0.5` | [Wooden Platform](https://mods.factorio.com/mod/wooden_platform) | Talandar99 | `12/02/2026` |
