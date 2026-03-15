@@ -3,7 +3,6 @@
   "version": "1.0.5",
   "title": "Traduções pt-BR",
   "author": "Slondo",
-  "homepage": "https://discord.gg/CX5XJsVkxK",
   "description": "Pacote com traduções para vários mods, esse pacote será atualizado a medida que muitos mods forem traduzidos. Sugestões de mods a serem traduzidos podem ser feitas a qualquer momento!\n\n-> If you are a mod creator and your mod is listed here, feel free to get a copy of the translations that have been made, or add our mod as a optional dependency on your mod!\n\n-> If your mod is not listed here and you would like to locate your mod to Brazilian Portuguese with as much accurate detail as possible, or your mod changed/add phrases..., contact me!",
   "factorio_version": "2.0",
   "dependencies": [
@@ -27,6 +26,7 @@
     "? canal-excavator",
     "? carbonut_agriculture",
     "? cargo_crates",
+    "? cargo-drone",
     "? cargo-ships",
     "? carnivorous_bacteria",
     "? carriage",
@@ -82,6 +82,7 @@
     "? reach-equipment",
     "? reactor-m",
     "? Robocharger-Updated",
+    "? rocket-silos-can-buffer-more-rockets-fork",
     "? scrap-chemistry",
     "? scrap-industry",
     "? scraptk",

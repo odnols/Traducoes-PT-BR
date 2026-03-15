@@ -13,11 +13,6 @@ This project aims to gather original translations for various mods I've submitte
 
 📣 If your mod is not listed here and you would like to locate to your mod in Brazilian Portuguese with as much accurate detail as possible, contact me!
 
-# 🌟 Discord
-Entre hoje mesmo no [Discord do projeto](https://discord.gg/CX5XJsVkxK) para ficar por dentro das atualizações, dar sugestões e interagir com outros membros, todos são bem-vindos!
-
-Join the [project's Discord server](https://discord.gg/CX5XJsVkxK) today to stay up-to-date, give suggestions, and interact with other members, everyone is welcome!
-
 ## 🐲 Mods and translation packs...
 It's a double-edged sword; while it speeds up localization for various mods, it can also become a headache with outdated content.
 
@@ -37,7 +32,7 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos
-- ( Atualmente: 90 / +3 em breve )
+- ( Atualmente: 90 / +10 em breve )
 
 📊 **Supported mods:**
 
@@ -63,6 +58,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.2` | [Cannon Turret](https://mods.factorio.com/mod/vtk-cannon-turret) | Vortik | `15/11/2025` |
 | `V1.0.3` | [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture) | Talandar99 | `07/12/2025` |
 | `V1.0.4` | [Cargo Crates](https://mods.factorio.com/mod/cargo_crates) | Talandar99 | `11/01/2026` |
+| `V1.0.6` | [Cargo Drone](https://mods.factorio.com/mod/cargo-drone) | Devilhar | `em breve` |
 | `V1.0.4` | [Cargo Ships](https://mods.factorio.com/mod/cargo-ships) | schnurrebutz & snouz | `11/01/2026` |
 | `V1.0.2` | [Carriage Transport](https://mods.factorio.com/mod/carriage) | SoulCRYSIS | `15/11/2025` |
 | `V1.0.3` | [Carnivorous Bacteria](https://mods.factorio.com/mod/carnivorous_bacteria) | Pithlit | `07/12/2025` |
@@ -121,6 +117,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.4` | [Quantum Lab](https://mods.factorio.com/mod/quantum_lab) | Azertyyu | `11/01/2026` |
 | `V1.0.0` | [Reach Equipment](https://mods.factorio.com/mod/reach-equipment) | BetweenWalls | `11/11/2025` |
 | `V1.0.4` | [Robocharger Factorio 2.0](https://mods.factorio.com/mod/Robocharger-Updated) | Smurph & briel1235 | `11/01/2026` |
+| `V1.0.5` | [Rocket silos can buffer more rockets](https://mods.factorio.com/mod/rocket-silos-can-buffer-more-rockets) | Quezler & username9999 | `em breve` |
 | `V1.0.5` | [Scrap Toolkit](https://mods.factorio.com/mod/scraptk) | SafTheLamb & S6X | `12/02/2026` |
 | `V1.0.4` | [Scrappy Chemistry](https://mods.factorio.com/mod/scrap-chemistry) | SafTheLamb | `11/01/2026` |
 | `V1.0.3` | [Scrappy Industry](https://mods.factorio.com/mod/scrap-industry) | SafTheLamb | `07/12/2025` |
