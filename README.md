@@ -32,7 +32,7 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos
-- ( Atualmente: 90 / +10 em breve )
+- ( Atualmente: 90 / +8 em breve )
 
 📊 **Supported mods:**
 
@@ -98,6 +98,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.2` | [Mini Trains Lead the Way](https://mods.factorio.com/mod/Mini-Trains-Lead-the-Way) | Indzasa | `15/11/2025` |
 | `V1.0.3` | [Missile Defense Systems [SA]](https://mods.factorio.com/mod/missile_defense_systems_sa) | kafoaai | `07/12/2025` |
 | `V1.0.4` | [Molten plastic](https://mods.factorio.com/mod/molten_plastic) | Powerscooter | `11/01/2026` |
+| `V1.0.6` | [No Solid Fuel Vehicles](https://mods.factorio.com/mod/no-solid-fuel-vehicles) | valertron | `em breve` |
 | `V1.0.0` | [Ore-ganizer](https://mods.factorio.com/mod/ore-ganizer) | 0n0w1c | `11/11/2025` |
 | `V1.0.3` | [Parallel Research](https://mods.factorio.com/mod/simultaneous-research) | Tename | `07/12/2025` |
 | `V1.0.5` | [Planet Akularis](https://mods.factorio.com/mod/planet-akularis) | rjdunlap | `12/02/2026` |
@@ -112,12 +113,14 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.4` | [Plasma Handling](https://mods.factorio.com/mod/plasma_handling) | Powerscooter | `11/01/2026` |
 | `V1.0.4` | [Plasma Industries](https://mods.factorio.com/mod/plasma_crafter) | Powerscooter | `11/01/2026` |
 | `V1.0.5` | [Pneumatic Mining Drill](https://mods.factorio.com/mod/pneumatic-mining-drill) | Wolbobus | `12/02/2026` |
+| `V1.0.6` | [Posted Signals](https://mods.factorio.com/mod/posted-signals) | O5MO | `em breve` |
 | `V1.0.4` | [Promethium Belts](https://mods.factorio.com/mod/promethium-belts) | Helios467 | `11/01/2026` |
 | `V1.0.4` | [Quantum emitter](https://mods.factorio.com/mod/Quantum-diffuser) | Azertyyu | `11/01/2026` |
 | `V1.0.4` | [Quantum Lab](https://mods.factorio.com/mod/quantum_lab) | Azertyyu | `11/01/2026` |
 | `V1.0.0` | [Reach Equipment](https://mods.factorio.com/mod/reach-equipment) | BetweenWalls | `11/11/2025` |
+| `V1.0.6` | [Repair Turret 2](https://mods.factorio.com/mod/Repair_Turret_2) | tiko13 | `em breve` |
 | `V1.0.4` | [Robocharger Factorio 2.0](https://mods.factorio.com/mod/Robocharger-Updated) | Smurph & briel1235 | `11/01/2026` |
-| `V1.0.5` | [Rocket silos can buffer more rockets](https://mods.factorio.com/mod/rocket-silos-can-buffer-more-rockets) | Quezler & username9999 | `em breve` |
+| `V1.0.6` | [Rocket silos can buffer more rockets](https://mods.factorio.com/mod/rocket-silos-can-buffer-more-rockets) | Quezler & username9999 | `em breve` |
 | `V1.0.5` | [Scrap Toolkit](https://mods.factorio.com/mod/scraptk) | SafTheLamb & S6X | `12/02/2026` |
 | `V1.0.4` | [Scrappy Chemistry](https://mods.factorio.com/mod/scrap-chemistry) | SafTheLamb | `11/01/2026` |
 | `V1.0.3` | [Scrappy Industry](https://mods.factorio.com/mod/scrap-industry) | SafTheLamb | `07/12/2025` |

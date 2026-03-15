@@ -2,9 +2,14 @@
 Version: 1.0.6
 Date: ?
   Adições:
-    - Mods traduzidos ( +3 / Total: 93 )
+    - Mods traduzidos ( +8 / Total: 98 )
+      Cargo Drone - por Devilhar,
       Crane Builder - por XenoLupus,
       Logistic Technology Beacon 2.0 - por cosinusek,
+      No Solid Fuel Vehicles - por valertron,
+      Posted Signals - por O5MO,
+      Repair Turret 2 - por tiko13,
+      Rocket silos can buffer more rockets - por Quezler & username9999,
       Wooden Moshine: Solaponics - por SafTheLamb
 Version: 1.0.5
 Date: 12/02/2026
