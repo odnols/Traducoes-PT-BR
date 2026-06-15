@@ -53,6 +53,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.3` | [Basic Chemistry – Full Control](https://mods.factorio.com/mod/basic-chemistry-full-control) | EleusisLaArwall | `07/12/2025` |
 | `V1.0.0` | [Battery-Electric Train](https://mods.factorio.com/mod/BatteryElectricTrain) | catWEax | `11/11/2025` |
 | `V1.0.1` | [Bio Industries](https://mods.factorio.com/mod/Bio_Industries_2) | TheSAguy, Pi-C, Snouz & cackling.fiend | `11/11/2025` |
+| `V1.0.6` | [Biter Attractors](https://mods.factorio.com/mod/biter-attractors) | O5MO | `em breve` |
 | `V1.0.3` | [Bluetonium](https://mods.factorio.com/mod/Bluetonium) | S6X | `07/12/2025` |
 | `V1.0.4` | [Canal Excavator](https://mods.factorio.com/mod/canal-excavator) | Jurgy | `11/01/2026` |
 | `V1.0.2` | [Cannon Turret](https://mods.factorio.com/mod/vtk-cannon-turret) | Vortik | `15/11/2025` |
@@ -133,6 +134,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.4` | [Various Cargo Bays](https://mods.factorio.com/mod/Various_Cargo_Bays) | Powerscooter | `11/01/2026` |
 | `V1.0.0` | [Visible Planets in Space](https://mods.factorio.com/mod/visible-planets) | Nauviax | `11/11/2025` |
 | `V1.0.3` | [Voidcraft](https://mods.factorio.com/mod/Voidcraft) | S6X | `07/12/2025` |
+| `V1.0.6` | [Winter Is Coming](https://mods.factorio.com/mod/winter-is-coming) | valertron | `em breve` |
 | `V1.0.5` | [Wire Lamps](https://mods.factorio.com/mod/wire_lamps) | peterwolf.pl | `12/02/2026` |
 | `V1.0.4` | [Wooden Industry](https://mods.factorio.com/mod/wood-industry) | SafTheLamb | `11/01/2026` |
 | `V1.0.3` | [Wooden Logistics](https://mods.factorio.com/mod/wood-logistics) | SafTheLamb | `07/12/2025` |
