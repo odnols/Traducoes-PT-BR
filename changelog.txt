@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.6
-Date: ?
+Date: 24/06/2026
   Adições:
     - Mods traduzidos ( +10 / Total: 100 )
       Biter Attractors - por O5MO,
@@ -13,6 +13,8 @@ Date: ?
       Rocket silos can buffer more rockets - por Quezler & username9999,
       Winter Is Coming - por valertron,
       Wooden Moshine: Solaponics - por SafTheLamb
+    - Mods atualizados:
+      - Atualizadas traduções do mod AAI Loaders, em decorrência de uma atualização do mod.
 Version: 1.0.5
 Date: 12/02/2026
   Adições:

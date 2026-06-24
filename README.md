@@ -32,7 +32,7 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos
-- ( Atualmente: 90 / +8 em breve )
+- ( Atualmente: 100 )
 
 📊 **Supported mods:**
 
@@ -53,17 +53,17 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.3` | [Basic Chemistry – Full Control](https://mods.factorio.com/mod/basic-chemistry-full-control) | EleusisLaArwall | `07/12/2025` |
 | `V1.0.0` | [Battery-Electric Train](https://mods.factorio.com/mod/BatteryElectricTrain) | catWEax | `11/11/2025` |
 | `V1.0.1` | [Bio Industries](https://mods.factorio.com/mod/Bio_Industries_2) | TheSAguy, Pi-C, Snouz & cackling.fiend | `11/11/2025` |
-| `V1.0.6` | [Biter Attractors](https://mods.factorio.com/mod/biter-attractors) | O5MO | `em breve` |
+| `V1.0.6` | [Biter Attractors](https://mods.factorio.com/mod/biter-attractors) | O5MO | `24/06/2026` |
 | `V1.0.3` | [Bluetonium](https://mods.factorio.com/mod/Bluetonium) | S6X | `07/12/2025` |
 | `V1.0.4` | [Canal Excavator](https://mods.factorio.com/mod/canal-excavator) | Jurgy | `11/01/2026` |
 | `V1.0.2` | [Cannon Turret](https://mods.factorio.com/mod/vtk-cannon-turret) | Vortik | `15/11/2025` |
 | `V1.0.3` | [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture) | Talandar99 | `07/12/2025` |
 | `V1.0.4` | [Cargo Crates](https://mods.factorio.com/mod/cargo_crates) | Talandar99 | `11/01/2026` |
-| `V1.0.6` | [Cargo Drone](https://mods.factorio.com/mod/cargo-drone) | Devilhar | `em breve` |
+| `V1.0.6` | [Cargo Drone](https://mods.factorio.com/mod/cargo-drone) | Devilhar | `24/06/2026` |
 | `V1.0.4` | [Cargo Ships](https://mods.factorio.com/mod/cargo-ships) | schnurrebutz & snouz | `11/01/2026` |
 | `V1.0.2` | [Carriage Transport](https://mods.factorio.com/mod/carriage) | SoulCRYSIS | `15/11/2025` |
 | `V1.0.3` | [Carnivorous Bacteria](https://mods.factorio.com/mod/carnivorous_bacteria) | Pithlit | `07/12/2025` |
-| `V1.0.6` | [Crane Builder](https://mods.factorio.com/mod/crane-builder) | XenoLupus | `em breve` |
+| `V1.0.6` | [Crane Builder](https://mods.factorio.com/mod/crane-builder) | XenoLupus | `24/06/2026` |
 | `V1.0.3` | [Crushing Industry](https://mods.factorio.com/mod/crushing-industry) | SafTheLamb & S6X | `07/12/2025` |
 | `V1.0.3` | [Cupric Asteroids](https://mods.factorio.com/mod/cupric-asteroids) | SafTheLamb & S6X | `07/12/2025` |
 | `V1.0.4` | [Diesel Engine](https://mods.factorio.com/mod/diesel_engine) | Talandar99 | `11/01/2026` |
@@ -89,7 +89,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.3` | [Heat-resistant Pipes](https://mods.factorio.com/mod/HotPipesFork) | NOiZE | `07/12/2025` |
 | `V1.0.4` | [Larger Lamps 2.0](https://mods.factorio.com/mod/LargerLamps-2_0) | Deadlock989, Goakiller900, MasterBuilder & NullHarp | `11/01/2026` |
 | `V1.0.0` | [Legacy Train Model](https://mods.factorio.com/mod/AspctTrainPatch) | aspct | `11/11/2025` |
-| `V1.0.6` | [Logistic Technology Beacon 2.0](https://mods.factorio.com/mod/logtech-beacon-2) | cosinusek | `em breve` |
+| `V1.0.6` | [Logistic Technology Beacon 2.0](https://mods.factorio.com/mod/logtech-beacon-2) | cosinusek | `24/06/2026` |
 | `V1.0.2` | [Logistics Insights](https://mods.factorio.com/mod/logistics-insights) | farzag | `15/11/2025` |
 | `V1.0.4` | [Long range delivery drones (fork)](https://mods.factorio.com/mod/long_range_delivery_drones_talandar_fork) | Talandar99 | `11/01/2026` |
 | `V1.0.5` | [Lubrication Tower](https://mods.factorio.com/mod/lubrication_tower) | Talandar99 | `12/02/2026` |
@@ -99,7 +99,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.2` | [Mini Trains Lead the Way](https://mods.factorio.com/mod/Mini-Trains-Lead-the-Way) | Indzasa | `15/11/2025` |
 | `V1.0.3` | [Missile Defense Systems [SA]](https://mods.factorio.com/mod/missile_defense_systems_sa) | kafoaai | `07/12/2025` |
 | `V1.0.4` | [Molten plastic](https://mods.factorio.com/mod/molten_plastic) | Powerscooter | `11/01/2026` |
-| `V1.0.6` | [No Solid Fuel Vehicles](https://mods.factorio.com/mod/no-solid-fuel-vehicles) | valertron | `em breve` |
+| `V1.0.6` | [No Solid Fuel Vehicles](https://mods.factorio.com/mod/no-solid-fuel-vehicles) | valertron | `24/06/2026` |
 | `V1.0.0` | [Ore-ganizer](https://mods.factorio.com/mod/ore-ganizer) | 0n0w1c | `11/11/2025` |
 | `V1.0.3` | [Parallel Research](https://mods.factorio.com/mod/simultaneous-research) | Tename | `07/12/2025` |
 | `V1.0.5` | [Planet Akularis](https://mods.factorio.com/mod/planet-akularis) | rjdunlap | `12/02/2026` |
@@ -114,14 +114,14 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.4` | [Plasma Handling](https://mods.factorio.com/mod/plasma_handling) | Powerscooter | `11/01/2026` |
 | `V1.0.4` | [Plasma Industries](https://mods.factorio.com/mod/plasma_crafter) | Powerscooter | `11/01/2026` |
 | `V1.0.5` | [Pneumatic Mining Drill](https://mods.factorio.com/mod/pneumatic-mining-drill) | Wolbobus | `12/02/2026` |
-| `V1.0.6` | [Posted Signals](https://mods.factorio.com/mod/posted-signals) | O5MO | `em breve` |
+| `V1.0.6` | [Posted Signals](https://mods.factorio.com/mod/posted-signals) | O5MO | `24/06/2026` |
 | `V1.0.4` | [Promethium Belts](https://mods.factorio.com/mod/promethium-belts) | Helios467 | `11/01/2026` |
 | `V1.0.4` | [Quantum emitter](https://mods.factorio.com/mod/Quantum-diffuser) | Azertyyu | `11/01/2026` |
 | `V1.0.4` | [Quantum Lab](https://mods.factorio.com/mod/quantum_lab) | Azertyyu | `11/01/2026` |
 | `V1.0.0` | [Reach Equipment](https://mods.factorio.com/mod/reach-equipment) | BetweenWalls | `11/11/2025` |
-| `V1.0.6` | [Repair Turret 2](https://mods.factorio.com/mod/Repair_Turret_2) | tiko13 | `em breve` |
+| `V1.0.6` | [Repair Turret 2](https://mods.factorio.com/mod/Repair_Turret_2) | tiko13 | `24/06/2026` |
 | `V1.0.4` | [Robocharger Factorio 2.0](https://mods.factorio.com/mod/Robocharger-Updated) | Smurph & briel1235 | `11/01/2026` |
-| `V1.0.6` | [Rocket silos can buffer more rockets](https://mods.factorio.com/mod/rocket-silos-can-buffer-more-rockets) | Quezler & username9999 | `em breve` |
+| `V1.0.6` | [Rocket silos can buffer more rockets](https://mods.factorio.com/mod/rocket-silos-can-buffer-more-rockets) | Quezler & username9999 | `24/06/2026` |
 | `V1.0.5` | [Scrap Toolkit](https://mods.factorio.com/mod/scraptk) | SafTheLamb & S6X | `12/02/2026` |
 | `V1.0.4` | [Scrappy Chemistry](https://mods.factorio.com/mod/scrap-chemistry) | SafTheLamb | `11/01/2026` |
 | `V1.0.3` | [Scrappy Industry](https://mods.factorio.com/mod/scrap-industry) | SafTheLamb | `07/12/2025` |
@@ -134,9 +134,9 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.4` | [Various Cargo Bays](https://mods.factorio.com/mod/Various_Cargo_Bays) | Powerscooter | `11/01/2026` |
 | `V1.0.0` | [Visible Planets in Space](https://mods.factorio.com/mod/visible-planets) | Nauviax | `11/11/2025` |
 | `V1.0.3` | [Voidcraft](https://mods.factorio.com/mod/Voidcraft) | S6X | `07/12/2025` |
-| `V1.0.6` | [Winter Is Coming](https://mods.factorio.com/mod/winter-is-coming) | valertron | `em breve` |
+| `V1.0.6` | [Winter Is Coming](https://mods.factorio.com/mod/winter-is-coming) | valertron | `24/06/2026` |
 | `V1.0.5` | [Wire Lamps](https://mods.factorio.com/mod/wire_lamps) | peterwolf.pl | `12/02/2026` |
 | `V1.0.4` | [Wooden Industry](https://mods.factorio.com/mod/wood-industry) | SafTheLamb | `11/01/2026` |
 | `V1.0.3` | [Wooden Logistics](https://mods.factorio.com/mod/wood-logistics) | SafTheLamb | `07/12/2025` |
-| `V1.0.6` | [Wooden Moshine: Solaponics](https://mods.factorio.com/mod/moshine-solaponics) | SafTheLamb | `em breve` |
+| `V1.0.6` | [Wooden Moshine: Solaponics](https://mods.factorio.com/mod/moshine-solaponics) | SafTheLamb | `24/06/2026` |
 | `V1.0.5` | [Wooden Platform](https://mods.factorio.com/mod/wooden_platform) | Talandar99 | `12/02/2026` |
