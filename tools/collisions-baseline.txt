@@ -22,8 +22,6 @@
 [item-name] canex-excavator
 [item-name] quarry-mk1
 [item-name] stone-crushed
-[mod-description] description
-[mod-name] title
 [mod-setting-description] quarry-crafting-speed
 [mod-setting-name] enhanced-nightvision
 [mod-setting-name] night-lut-set

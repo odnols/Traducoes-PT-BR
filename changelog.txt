@@ -6,7 +6,7 @@ Date: 31/12/2026
     - Alguns nomes foram alterados para se adequarem aos itens descritos oficialmente nas traduções do jogo, mesmo em mods que possuam traduções disponíveis no crowdin em alguns casos, de modo a tornar toda a tradução mais coesa, caso ativada a partir deste pacote.
     - Chaves duplicadas estão sendo removidas uma vez que apenas uma tradução possível é ativada por chave.
   Problemas conhecidos:
-    - No mod Alien Biomes, o nome dos blocos de chão são ordenados como "Tamanho" e "Tipo", essa configuração soa errada em pt-br, uma vez que ficará como "Cinza Terra", ao invés de "Terra cinza". A tradução é feita de forma hardcoded na configuração do mod, não sendo possível alterar a ordem manualmente atráves do .cfg, uma proposta de inclusão para tornar essa alteração possível foi enviada ao desenvolvedor do mod.
+    - No mod Alien Biomes, o nome dos blocos de chão são ordenados como "Cor" e "Tipo", essa configuração soa errada em pt-br, uma vez que ficará como "Cinza Terra", ao invés de "Terra cinza". A tradução é feita de forma hardcoded na configuração do mod, não sendo possível alterar a ordem manualmente atráves do .cfg, uma proposta de inclusão para tornar essa alteração possível foi enviada ao desenvolvedor do mod.
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.0
 Date: 28/08/2026
