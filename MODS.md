@@ -119,7 +119,7 @@ A tabela é gerada de [`mods.csv`](mods.csv) por `tools/gen_mods_table.py` —
 | 104 | Fluid recycler | Powerscooter | 1.0.5 | V1.0.3 | 07/12/2025 |
 | 105 | Fluroflux: Stingfrond Agriculture | LordMiguel | 1.0.2 | V1.0.3 | 07/12/2025 |
 | 106 | Fracking Tower | GammaDelta | 0.4.0 | V1.0.0 | 11/11/2025 |
-| 107 | Fundryu | Azertyyu | 3.0.9 | V1.0.4 | 11/01/2026 |
+| 107 | Fundryu | Azertyyu | 3.1.2 | V1.0.4 | 23/10/2026 |
 | 108 | Fusion Machines | Talandar99 | 0.0.13 | V1.0.5 | 12/02/2026 |
 | 109 | Fusion Robots | Acouya | 1.0.6 | V1.0.0 | 11/11/2025 |
 | 110 | Game Speed Button | 0n0w1c | 0.3.0 | V2.0.0 | 28/08/2026 |
