@@ -4,6 +4,8 @@ Date: 23/10/2026
   Alterações:
     - Correções gerais com o glossário de diversos itens e entidades, como "Perfuratriz(es)" -> "Mineradora(s)", "Esteira de transporte" -> "Esteira", "Roboporto(s)" -> "Roboport(s)" e diversos outros nomes.
     - Alguns nomes foram alterados para se adequarem aos itens descritos oficialmente nas traduções do jogo, mesmo em mods que possuam traduções disponíveis no crowdin em alguns casos, de modo a tornar toda a tradução mais coesa, caso ativada a partir deste pacote.
+  - Mods atualizados:
+      - Atualizadas traduções do mod Fundryu, em decorrência de uma atualização do mod.
   Localização:
     - Multiplayer UI: tradução do nome e da descrição do mod e da nova configuração "Modo compacto".
   Problemas conhecidos:
